@@ -1,0 +1,8 @@
+# additional setup info
+local_info.txt
+
+# docker shared folder
+test/wp-content/
+
+# plugins
+*.zip
